@@ -1,0 +1,18 @@
+/*custom*/
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Rubik:ital,wght@0,300;0,400;0,500;1,400&display=swap");
+
+.navbar-brand,
+.display-1,
+.display-2,
+.display-3,
+.display-4,
+.h1,.h2,.h3,.h4,.h5,.h6,
+h1,h2,h3,h4,h5,h6{
+	font-family: "Montserrat", sans-serif;
+	letter-spacing: -0.04em;
+	font-weight: bold;
+}
+
+body{
+	font-family: "Montserrat", sans-serif;
+}
